@@ -2,7 +2,7 @@
 
 #include <random>
 
-#ifndef _WIN32
+#ifndef WIN32
 #include <cmath>
 #include <cstdlib>
 #endif

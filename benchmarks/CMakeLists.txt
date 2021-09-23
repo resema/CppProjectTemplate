@@ -2,7 +2,6 @@
 set(BENCHMARK_SOURCES "main.cc")
 
 # Target
-set(BENCHMARK_MAIN "${PROJECT}_benchmarks")
 add_executable(${BENCHMARK_MAIN} ${BENCHMARK_SOURCES})
 
 # Settings
