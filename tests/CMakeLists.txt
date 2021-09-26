@@ -19,7 +19,7 @@ if (ENABLE_COVERAGE)
         "${PROJECT_SOURCE_DIR}/app/*"
         "${PROJECT_SOURCE_DIR}/cmake/*"
         "${PROJECT_SOURCE_DIR}/docs/*"
-        "${PROJECT_SOURCE_DIR}/external/*"
+        "${PROJECT_SOURCE_DIR}/ext/*"
         "${PROJECT_SOURCE_DIR}/app/*"
         "${PROJECT_SOURCE_DIR}/tests/*"
         "${CONAN_BOOST_ROOT}/*"
