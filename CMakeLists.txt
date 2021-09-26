@@ -53,7 +53,7 @@ if(GIT_FOUND AND EXISTS .git)
                     RESULT_VARIABLE GIT_SUBMOD_RESULT)
 endif()
 
-add_subdirectory(external)
+add_subdirectory(ext)
 
 # Add first-party libraries
 add_subdirectory(src)
